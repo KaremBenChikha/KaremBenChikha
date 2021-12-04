@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi everyone 👋
 
-<!--
-**KaremBenChikha/KaremBenChikha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a robotics engineer currently working at [Hydrogen Research Institute](https://www.irh.ca/).
 
-Here are some ideas to get you started:
+My Academic Persuit:
+* (2019-2020): Business Analytics (exchange year as Thomas Jefferson Scholar) at [Florida Gulf Coast University](https://www.fgcu.edu/).
+* (2015-2021): Industrial Informatics and Automation at [National Institute of Applied Science and Technology](http://www.insat.rnu.tn/Fr/accueil_46_34).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👀 I’m interested in "Energy Managment Systems" 
+
+- 📫 karem.ben.chikha@uqtr.ca // karem.benchikha@irh.ca 
+
+I also like to share open projects related to robotics. Learn more at [https://www.hackster.io/karem_benchikha](https://www.hackster.io/karem_benchikha).
