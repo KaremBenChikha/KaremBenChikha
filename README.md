@@ -8,6 +8,6 @@ My Academic Pursuit:
  
 👀 I’m interested in "Energy Management Systems" 
 
-📫 karem.ben.chikha@uqtr.ca // karem.benchikha@irh.ca 
+📫 karem.ben.chikha@uqtr.ca
 
 I also like to share open projects related to robotics. Learn more at [https://www.hackster.io/karem_benchikha](https://www.hackster.io/karem_benchikha).
