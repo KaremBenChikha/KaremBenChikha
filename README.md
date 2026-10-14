@@ -10,10 +10,10 @@ On the side I build SaaS products and control and embedded systems.
 
 ## Education
 
-- M.Sc. Electrical Engineering, Université du Québec à Trois-Rivières (UQTR)
-- INSAT
-- Florida Gulf Coast University (FGCU)
-- Ulster University
+- M.Sc. Electrical Engineering, Université du Québec à Trois-Rivières (UQTR), Canada
+- Engineering Bachelor's in Industrial Computer Science and Automation, National Institute of Applied Science and Technology (INSAT), Tunisia
+- Business Analytics, Florida Gulf Coast University (FGCU), USA
+- Hydrogen Safety course, Ulster University, UK
 
 ## KaremVerse
 
