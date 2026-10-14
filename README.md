@@ -1,12 +1,19 @@
 # Hi, I'm Karem
 
-Hydrogen and hybrid propulsion systems engineer at [MTLS Aerostructure](https://mtls-aerostructure.com/). I work in French and English.
+Aerospace and systems engineer at [MTLS Aerostructure](https://mtls-aerostructure.com/), working on hydrogen and hybrid propulsion.
 On the side I build SaaS products and control and embedded systems.
 
-## Current focus
+## Contact
 
-- Migrating **Inviteo** from Supabase to AWS.
-- Shipping and hardening the **KaremVerse** product line.
+- [LinkedIn](https://linkedin.com/in/karem-ben-chikha)
+- [Hackster](https://www.hackster.io/karem_benchikha)
+
+## Education
+
+- M.Sc. Electrical Engineering, Université du Québec à Trois-Rivières (UQTR)
+- INSAT
+- Florida Gulf Coast University (FGCU)
+- Ulster University
 
 ## KaremVerse
 
@@ -39,9 +46,3 @@ Taken from my repos.
 - **ML:** TensorFlow, Keras, OpenCV
 - **Embedded and control:** Arduino, ESP32, LabVIEW, PID control, Simulink
 - **Infra:** Docker
-
-## Contact
-
-- Website: [karembenchikha.github.io](https://karembenchikha.github.io)
-- [LinkedIn](https://linkedin.com/in/karem-ben-chikha)
-- [Hackster](https://www.hackster.io/karem_benchikha)
