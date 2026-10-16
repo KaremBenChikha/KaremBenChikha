@@ -28,7 +28,7 @@ My umbrella for independent SaaS products.
 
 ## Featured projects
 
-- [matlab-mcp-guide](https://github.com/KaremBenChikha/matlab-mcp-guide): field guide for connecting Claude Code to MATLAB/Simulink through an MCP server
+- [**sim2paper**](https://github.com/KaremBenChikha/sim2paper): give Claude Code real hands on MATLAB/Simulink through the MathWorks MCP server, then take simulations to a reproducible LaTeX paper (macOS, Windows, Linux)
 - [claude-code-blueprint](https://github.com/KaremBenChikha/claude-code-blueprint): portable setup for a persistent AI coding environment
 - [smart-aquarium](https://github.com/KaremBenChikha/smart-aquarium): Android app and ESP32 firmware for monitoring a home aquarium
 - [ems-marketplace](https://github.com/KaremBenChikha/ems-marketplace): full-stack marketplace with admin, client and API apps
