@@ -1,11 +1,12 @@
 # Hi, I'm Karem
 
 Aerospace and systems engineer at [MTLS Aerostructure](https://mtls-aerostructure.com/).
-On the side I build SaaS products and control and embedded systems.
+On the side I build SaaS products, embedded and robotics systems, and math-heavy simulations.
 
 ## Contact
 
 - [Website](https://karemverse.github.io)
+- [X](https://x.com/karemverse)
 - [LinkedIn](https://linkedin.com/in/karem-ben-chikha)
 - [Hackster](https://www.hackster.io/karem_benchikha)
 
