@@ -17,7 +17,7 @@ On the side I build SaaS products, embedded and robotics systems, and math-heavy
 - Business Analytics, Florida Gulf Coast University (FGCU), USA
 - Hydrogen Safety course, Ulster University, UK
 
-## KaremVerse
+## Products ([KaremVerse](https://github.com/Karemverse))
 
 My umbrella for independent SaaS products.
 
@@ -28,17 +28,32 @@ My umbrella for independent SaaS products.
 | **ScopeLock** | Detects billable scope changes in client messages for contractors and drafts change orders. [scopelock.app](https://www.scopelock.app) | Next.js, TypeScript, Clerk, Supabase, Stripe |
 | **Stoxx** | Swing trading signal scanner for the TSX and S&P 500, fed nightly by an AWS Lambda. [stoxx.app](https://www.stoxx.app) | Next.js, TypeScript, Clerk, Supabase, Stripe |
 
-## Featured projects
+## Projects
 
-- [**sim2paper**](https://github.com/KaremBenChikha/sim2paper): give Claude Code real hands on MATLAB/Simulink through the MathWorks MCP server, then take simulations to a reproducible LaTeX paper (macOS, Windows, Linux)
-- [claude-code-blueprint](https://github.com/KaremBenChikha/claude-code-blueprint): portable setup for a persistent AI coding environment
-- [claude-code-router](https://github.com/KaremBenChikha/claude-code-router): transparent proxy that routes Claude Code to DeepSeek when rate limits hit
-- [homelab](https://github.com/Karemverse/homelab): sealed self-hosted home server template (Tailscale-only, private CA, zero open ports)
-- [face-mask-detection](https://github.com/KaremBenChikha/face-mask-detection): TensorFlow and OpenCV mask detector driving an Arduino
-- [smart-aquarium](https://github.com/KaremBenChikha/smart-aquarium): Android app and ESP32 firmware for monitoring a home aquarium
-- [agv-hybride](https://github.com/KaremBenChikha/agv-hybride): hybrid automated guided vehicle
+All of it, with filters, on [karemverse.github.io](https://karemverse.github.io). Tags: `Personal` or `School`.
 
-Earlier coursework: [ball-and-beam](https://github.com/KaremBenChikha/ball-and-beam) (PID on Arduino + LabVIEW), [object-detection-yolo](https://github.com/KaremBenChikha/object-detection-yolo), [image-classification-sagemaker](https://github.com/KaremBenChikha/image-classification-sagemaker), [simple-image-classification](https://github.com/KaremBenChikha/simple-image-classification).
+### AI agents & dev tools
+- [**sim2paper**](https://github.com/KaremBenChikha/sim2paper): give Claude Code real hands on MATLAB/Simulink through the MathWorks MCP server, then take simulations to a reproducible LaTeX paper. `Personal`
+- [claude-code-router](https://github.com/KaremBenChikha/claude-code-router): transparent proxy that routes Claude Code to DeepSeek when rate limits hit. `Personal`
+- [claude-code-blueprint](https://github.com/KaremBenChikha/claude-code-blueprint): portable setup for a persistent AI coding environment. `Personal`
+
+### Embedded & robotics
+- [agv-hybride](https://github.com/KaremBenChikha/agv-hybride): ROS navigation stack for a hybrid AGV (SLAM, path planning, sensors). `Personal`
+- [smart-aquarium](https://github.com/KaremBenChikha/smart-aquarium): Android app and ESP32 firmware to monitor and control an aquarium over MQTT ([Hackster](https://www.hackster.io/karem_benchikha/smart-aquarium-d4d2dd)). `Personal`
+- [ball-and-beam](https://github.com/KaremBenChikha/ball-and-beam): PID control on Arduino with LabVIEW ([Hackster](https://www.hackster.io/karem_benchikha/ball-and-beam-601d7a)). `School`
+- [face-mask-detection](https://github.com/KaremBenChikha/face-mask-detection): neural network that detects masks and triggers an Arduino ([Hackster](https://www.hackster.io/karem_benchikha/facemask-detection-88fa1a)). `Personal`
+
+### Engineering & math
+- Options Lab: gamified options course with a historical replay, priced with Black-Scholes. `Personal` (private)
+- S&P 500 behavior lab: ten investor behaviors over ten years of daily data, plus a TSX ETF study. `Personal` (private)
+
+### Machine learning
+- [object-detection-yolo](https://github.com/KaremBenChikha/object-detection-yolo): object detection with YOLO and OpenCV. `School`
+- [image-classification-sagemaker](https://github.com/KaremBenChikha/image-classification-sagemaker): image classifier trained and deployed on AWS SageMaker. `School`
+- [simple-image-classification](https://github.com/KaremBenChikha/simple-image-classification): Fashion MNIST classifier with TensorFlow and Keras ([Hackster](https://www.hackster.io/karem_benchikha/sample-image-classification-with-tensorflow-e9e598)). `School`
+
+### Infrastructure
+- [homelab](https://github.com/Karemverse/homelab): sealed self-hosted home server template (Tailscale-only, private CA, zero open ports). `Personal`
 
 ## Stack
 
