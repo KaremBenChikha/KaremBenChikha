@@ -5,6 +5,7 @@ On the side I build SaaS products and control and embedded systems.
 
 ## Contact
 
+- [Website](https://karembenchikha.github.io)
 - [LinkedIn](https://linkedin.com/in/karem-ben-chikha)
 - [Hackster](https://www.hackster.io/karem_benchikha)
 
@@ -23,26 +24,24 @@ My umbrella for independent SaaS products.
 |---|---|---|
 | **Inviteo** | Digital invitations. Pick a template, customise it in a live phone preview, share one link with RSVP, countdown, music and map. [inviteo.design](https://inviteo.design) | Next.js, TypeScript, Tailwind, Stripe, AWS SES, Playwright |
 | **CreatorPay** | Branded invoices for creators, paid through Stripe. [creatorpay.app](https://creatorpay.app) | React, Vite, TypeScript, Supabase, Stripe |
-| **ScopeLock** | Detects billable scope changes in client messages for contractors and drafts change orders. | Next.js, TypeScript, Clerk, Supabase, Stripe |
-| **Stoxx** | Swing trading signal scanner for the TSX and S&P 500, fed nightly by an AWS Lambda. | Next.js, TypeScript, Clerk, Supabase, Stripe |
+| **ScopeLock** | Detects billable scope changes in client messages for contractors and drafts change orders. [scopelock.app](https://www.scopelock.app) | Next.js, TypeScript, Clerk, Supabase, Stripe |
+| **Stoxx** | Swing trading signal scanner for the TSX and S&P 500, fed nightly by an AWS Lambda. [stoxx.app](https://www.stoxx.app) | Next.js, TypeScript, Clerk, Supabase, Stripe |
 
 ## Featured projects
 
 - [**sim2paper**](https://github.com/KaremBenChikha/sim2paper): give Claude Code real hands on MATLAB/Simulink through the MathWorks MCP server, then take simulations to a reproducible LaTeX paper (macOS, Windows, Linux)
 - [claude-code-blueprint](https://github.com/KaremBenChikha/claude-code-blueprint): portable setup for a persistent AI coding environment
+- [claude-code-router](https://github.com/KaremBenChikha/claude-code-router): transparent proxy that routes Claude Code to DeepSeek when rate limits hit
+- [homelab](https://github.com/Karemverse/homelab): sealed self-hosted home server template (Tailscale-only, private CA, zero open ports)
+- [face-mask-detection](https://github.com/KaremBenChikha/face-mask-detection): TensorFlow and OpenCV mask detector driving an Arduino
 - [smart-aquarium](https://github.com/KaremBenChikha/smart-aquarium): Android app and ESP32 firmware for monitoring a home aquarium
-- [ems-marketplace](https://github.com/KaremBenChikha/ems-marketplace): full-stack marketplace with admin, client and API apps
+- [agv-hybride](https://github.com/KaremBenChikha/agv-hybride): hybrid automated guided vehicle
+
+Earlier coursework: [ball-and-beam](https://github.com/KaremBenChikha/ball-and-beam) (PID on Arduino + LabVIEW), [object-detection-yolo](https://github.com/KaremBenChikha/object-detection-yolo), [image-classification-sagemaker](https://github.com/KaremBenChikha/image-classification-sagemaker), [simple-image-classification](https://github.com/KaremBenChikha/simple-image-classification).
 
 ## Stack
 
-Taken from my repos.
-
-- **Languages:** TypeScript, JavaScript, Python, MATLAB, Java, C++, Shell
-- **Web:** Next.js, React, Vite, Tailwind CSS, Node.js, Zod
-- **Data and auth:** Supabase (Postgres), MongoDB, Clerk
-- **Payments and analytics:** Stripe, PostHog
-- **Cloud:** AWS (Lambda, SES, SageMaker), Vercel
-- **Testing:** Vitest, Playwright
+- **Web:** TypeScript, Next.js, React, Tailwind, Node.js, Supabase, Clerk, Stripe
+- **Cloud and infra:** AWS (Lambda, SES, SageMaker), Docker, Cloudflare
+- **Engineering:** MATLAB, Simulink, Python, C++, Arduino, ESP32, LabVIEW
 - **ML:** TensorFlow, Keras, OpenCV
-- **Embedded and control:** Arduino, ESP32, LabVIEW, PID control, Simulink
-- **Infra:** Docker
