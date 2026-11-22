@@ -1,6 +1,6 @@
 # Hi, I'm Karem
 
-Aerospace and systems engineer at [MTLS Aerostructure](https://mtls-aerostructure.com/), working on hydrogen and hybrid propulsion.
+Aerospace and systems engineer at [MTLS Aerostructure](https://mtls-aerostructure.com/).
 On the side I build SaaS products and control and embedded systems.
 
 ## Contact
